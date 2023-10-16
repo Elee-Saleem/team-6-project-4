@@ -15,4 +15,3 @@
   2. SQL (table schema n query).
   3. Tableau (dashboard , story , map and charts visualization).
   4. Machine Learning (supervised logistical regression twice once before balancing once after balancing).
-  5. Sagemaker Deployment.
