@@ -42,7 +42,7 @@ The objective of this analysis was to observe 100,000 credit card fraudulent tra
     - Therefore we applied Random Forest since it finds relationships between data indivitually and does not need to find a linear seperation.
     - With Random Forest model we have got very good results (precision, recall, and f1-score).
     
-https://github.com/Elee-Saleem/team-6-project-4/issues/18#issue-1946205196
+![All_3_models](https://github.com/Elee-Saleem/team-6-project-4/issues/18#issue-1946205196)
 
 ## Conclusion 
     - We conclude that oersampling des not always make the model successful.
