@@ -41,14 +41,13 @@ The objective of this analysis was to observe 100,000 credit card fraudulent tra
     - But the results (precision, recall, and f1-score) have not improved that much, seem that logistical regression can not seperate data points linearly.
     - Therefore we applied Random Forest since it finds relationships between data indivitually and does not need to find a linear seperation.
     - With Random Forest model we have got very good results (precision, recall, and f1-score).
-
-![1st_model](https://github.com/Elee-Saleem/team-6-project-4/blob/main/images/1st_model.png)
+    
+https://github.com/Elee-Saleem/team-6-project-4/issues/18#issue-1946205196
 
 ## Conclusion 
     - We conclude that oersampling des not always make the model successful.
     - Random Forest is good for classification and regression since it’s optimal for non-linear relationships for data points therefore it can model complex relationships in the data. less prone to overfitting compared to individual decision trees.
 
-![1st_model](https://github.com/Elee-Saleem/team-6-project-4/blob/main/images/1st_model.png)
 
 ## Limitations
     * Data Records for 2 months 
