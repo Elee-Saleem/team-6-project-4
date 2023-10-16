@@ -19,7 +19,7 @@ The objective of this analysis was to observe 100,000 credit card fraudulent tra
 ![solution workflow](https://github.com/Elee-Saleem/team-6-project-4/assets/131730274/7b9b9cf9-ee58-4dda-a63b-f108104c17dd)
 
 ## Summary:
-   Machine learning (supervised logistical regression twice once before balancing once after balancing) and Analysis.
+   
 
 ## Reflections & Limitations
 
