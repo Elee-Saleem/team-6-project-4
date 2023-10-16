@@ -6,13 +6,16 @@ Ismail Ellahi, Nehal Ghauri, Muhaymin Raza, Elee Saleem, Xhulio Zhapa
 ## Objective
 The objective of this analysis was to observe 100,000 credit card fraudulent transactions and determine how credit card transactions can be classified as safe & trusted or fraudulent. With our analysis, we wanted to see what patterns recur in fraudulent transactions and how this can lead to prevention.
 
+## Source of Data:
+    https://www.kaggle.com/datasets/anurag629/credit-card-fraud-transaction-data
+
+## Solution Workflow
 
 ## Summary:
    Machine learning (supervised logistical regression twice once before balancing once after balancing) and Analysis.
 
 
-## Source of Data:
-    https://www.kaggle.com/datasets/anurag629/credit-card-fraud-transaction-data
+
 
 
 ## Project Needs:
