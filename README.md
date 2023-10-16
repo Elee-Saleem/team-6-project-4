@@ -1,6 +1,8 @@
 # Credit Card Fraud Transaction
 
 ##### team-6-project-4
+Ismail Ellahi, Nehal Ghauri, Muhaymin Raza, Elee Saleem, Xhulio Zhapa
+
 
 
 
